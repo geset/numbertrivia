@@ -29,7 +29,7 @@ namespace tests
 
             Assert.Equal(42, result.Number);
             Assert.NotEmpty(result.Text);
-            //just testing
+            //just testing like hell
         }
     }
 }
